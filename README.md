@@ -1,4 +1,8 @@
-[![Listen](https://img.shields.io/badge/Listen-Deckard%20Cain-orange)](https://www.myinstants.com/instant/deckard-cain-stay-awhile-41519/)
+## 🎵 Sound Bite
+[🔊 Click here to play Deckard Cain - Stay Awhile and Listen](https://gist.github.com/charettep/fda9498b6cc5c79530007fb96e4f2a0c)
+
+Or directly embed as a link card:
+[![Play Sound](https://img.shields.io/badge/Play%20Sound-Deckard%20Cain-orange?style=for-the-badge)](https://gist.github.com/charettep/fda9498b6cc5c79530007fb96e4f2a0c)
 
 Experimenting & learning at light speed to build useful tools for humans.
 
