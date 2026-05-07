@@ -1,10 +1,6 @@
 ## 🎵 Sound Bite
 
-<iframe src="https://charettep.github.io/deckard/" width="300" height="400" frameborder="0" style="border-radius: 10px; border: none;"></iframe>
-
-Or [click here for fullscreen](https://charettep.github.io/deckard/)
-
----
+[![Play Deckard Cain](https://img.shields.io/badge/🔊-Play%20Sound-blue?style=for-the-badge)](https://charettep.github.io/deckard/)
 
 Experimenting & learning at light speed to build useful tools for humans.
 
