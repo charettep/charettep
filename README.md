@@ -1,6 +1,4 @@
-```html
-<iframe width="110" height="200" src="https://www.myinstants.com/instant/deckard-cain-stay-awhile-41519/embed/" frameborder="0" scrolling="no"></iframe>
-```
+[![Listen](https://img.shields.io/badge/Listen-Deckard%20Cain-orange)](https://www.myinstants.com/instant/deckard-cain-stay-awhile-41519/)
 
 Experimenting & learning at light speed to build useful tools for humans.
 
