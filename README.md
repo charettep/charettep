@@ -1,7 +1,3 @@
-## 🎵 Sound Bite
-
-[![Play Deckard Cain](https://img.shields.io/badge/🔊-Play%20Sound-blue?style=for-the-badge)](https://charettep.github.io/deckard/)
-
 Experimenting & learning at light speed to build useful tools for humans.
 
 Currently, I'm:
